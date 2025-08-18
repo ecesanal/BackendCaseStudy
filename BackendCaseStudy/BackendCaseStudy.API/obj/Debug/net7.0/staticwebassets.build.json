@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "u/M+XUnssVmO23vmYeuy0D3jwLDCcKcsV9K0pcniIcA=",
+  "Source": "BackendCaseStudy.API",
+  "BasePath": "_content/BackendCaseStudy.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

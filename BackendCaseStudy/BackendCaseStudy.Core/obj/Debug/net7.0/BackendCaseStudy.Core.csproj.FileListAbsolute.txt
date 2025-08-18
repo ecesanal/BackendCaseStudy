@@ -1,0 +1,15 @@
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\bin\Debug\net7.0\BackendCaseStudy.Core.deps.json
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\bin\Debug\net7.0\BackendCaseStudy.Core.runtimeconfig.json
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\bin\Debug\net7.0\BackendCaseStudy.Core.dll
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\bin\Debug\net7.0\BackendCaseStudy.Core.pdb
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\BackendCaseStudy.Core.csproj.AssemblyReference.cache
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\BackendCaseStudy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\BackendCaseStudy.Core.AssemblyInfoInputs.cache
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\BackendCaseStudy.Core.AssemblyInfo.cs
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\BackendCaseStudy.Core.csproj.CoreCompileInputs.cache
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\BackendCaseStudy.Core.sourcelink.json
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\BackendCaseStudy.Core.dll
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\refint\BackendCaseStudy.Core.dll
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\BackendCaseStudy.Core.pdb
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\BackendCaseStudy.Core.genruntimeconfig.cache
+C:\Users\e\Desktop\Task\BackendCaseStudy\BackendCaseStudy.Core\obj\Debug\net7.0\ref\BackendCaseStudy.Core.dll

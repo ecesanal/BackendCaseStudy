@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("fea165d8-af17-48bc-868c-535baa0f58b3")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackendCaseStudy.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13210d2fe49599c64cf4d640264bd785527d5777")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackendCaseStudy.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackendCaseStudy.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

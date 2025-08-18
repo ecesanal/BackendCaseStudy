@@ -5,3 +5,4 @@ C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.Assem
 C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.csproj.CoreCompileInputs.cache
 C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.sourcelink.json
