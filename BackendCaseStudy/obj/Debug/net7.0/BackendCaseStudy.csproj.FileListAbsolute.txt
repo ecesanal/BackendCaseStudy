@@ -1,0 +1,7 @@
+C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.csproj.AssemblyReference.cache
+C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.AssemblyInfoInputs.cache
+C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.AssemblyInfo.cs
+C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\e\Desktop\Task\BackendCaseStudy\obj\Debug\net7.0\BackendCaseStudy.MvcApplicationPartsAssemblyInfo.cache
