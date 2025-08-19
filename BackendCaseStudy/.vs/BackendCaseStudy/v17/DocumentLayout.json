@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69C7AF36-A99E-4A04-A2A0-082B15CF3B54}|BackendCaseStudy.Application\\BackendCaseStudy.Application.csproj|c:\\users\\e\\desktop\\task\\backendcasestudy\\backendcasestudy.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C7AF36-A99E-4A04-A2A0-082B15CF3B54}|BackendCaseStudy.Application\\BackendCaseStudy.Application.csproj|solutionrelative:backendcasestudy.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF5366B-A524-49BD-B768-F3F60A20883B}|BackendCaseStudy.Infrastructure\\BackendCaseStudy.Infrastructure.csproj|c:\\users\\e\\desktop\\task\\backendcasestudy\\backendcasestudy.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF5366B-A524-49BD-B768-F3F60A20883B}|BackendCaseStudy.Infrastructure\\BackendCaseStudy.Infrastructure.csproj|solutionrelative:backendcasestudy.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C25042-434A-4926-B4D8-4DD637C30231}|BackendCaseStudy.Core\\BackendCaseStudy.Core.csproj|c:\\users\\e\\desktop\\task\\backendcasestudy\\backendcasestudy.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C25042-434A-4926-B4D8-4DD637C30231}|BackendCaseStudy.Core\\BackendCaseStudy.Core.csproj|solutionrelative:backendcasestudy.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C25042-434A-4926-B4D8-4DD637C30231}|BackendCaseStudy.Core\\BackendCaseStudy.Core.csproj|c:\\users\\e\\desktop\\task\\backendcasestudy\\backendcasestudy.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C25042-434A-4926-B4D8-4DD637C30231}|BackendCaseStudy.Core\\BackendCaseStudy.Core.csproj|solutionrelative:backendcasestudy.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AE3E645-B470-4B1D-899F-E3720096DD94}|BackendCaseStudy.API\\BackendCaseStudy.API.csproj|c:\\users\\e\\desktop\\task\\backendcasestudy\\backendcasestudy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AE3E645-B470-4B1D-899F-E3720096DD94}|BackendCaseStudy.API\\BackendCaseStudy.API.csproj|solutionrelative:backendcasestudy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -20,10 +36,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\e\\AppData\\Roaming\\Microsoft\\UserSecrets\\fea165d8-af17-48bc-868c-535baa0f58b3\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FF5366B-A524-49BD-B768-F3F60A20883B}|BackendCaseStudy.Infrastructure\\BackendCaseStudy.Infrastructure.csproj|c:\\users\\e\\desktop\\task\\backendcasestudy\\backendcasestudy.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF5366B-A524-49BD-B768-F3F60A20883B}|BackendCaseStudy.Infrastructure\\BackendCaseStudy.Infrastructure.csproj|solutionrelative:backendcasestudy.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,11 +45,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "BackendCaseStudy.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "BackendCaseStudy.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:33:47.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "BackendCaseStudy.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "BackendCaseStudy.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:24:33.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BackendCaseStudy.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BackendCaseStudy.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:21:17.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RedisService.cs",
               "DocumentMoniker": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.Infrastructure\\RedisService.cs",
               "RelativeDocumentMoniker": "BackendCaseStudy.Infrastructure\\RedisService.cs",
@@ -45,25 +96,24 @@
               "RelativeToolTip": "BackendCaseStudy.Infrastructure\\RedisService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T18:26:42.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T18:26:42.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.API\\Program.cs",
               "RelativeDocumentMoniker": "BackendCaseStudy.API\\Program.cs",
               "ToolTip": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.API\\Program.cs",
               "RelativeToolTip": "BackendCaseStudy.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T17:47:43.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.API\\appsettings.json",
               "RelativeDocumentMoniker": "BackendCaseStudy.API\\appsettings.json",
@@ -71,12 +121,11 @@
               "RelativeToolTip": "BackendCaseStudy.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-18T18:25:52.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T18:25:52.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AppDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.Infrastructure\\Persistence\\AppDbContextFactory.cs",
               "RelativeDocumentMoniker": "BackendCaseStudy.Infrastructure\\Persistence\\AppDbContextFactory.cs",
@@ -84,12 +133,11 @@
               "RelativeToolTip": "BackendCaseStudy.Infrastructure\\Persistence\\AppDbContextFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T18:18:07.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T18:18:07.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\e\\AppData\\Roaming\\Microsoft\\UserSecrets\\fea165d8-af17-48bc-868c-535baa0f58b3\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\fea165d8-af17-48bc-868c-535baa0f58b3\\secrets.json",
@@ -97,18 +145,17 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\fea165d8-af17-48bc-868c-535baa0f58b3\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-18T17:23:43.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T17:23:43.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "BackendCaseStudy.Infrastructure\\Persistence\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\e\\Desktop\\Task\\BackendCaseStudy\\BackendCaseStudy.Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeToolTip": "BackendCaseStudy.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T17:19:29.929Z",
               "EditorCaption": ""
